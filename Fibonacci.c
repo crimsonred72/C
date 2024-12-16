@@ -15,4 +15,5 @@ int main()
         nextterm = term1+ term2;
         printf("%d, ",nextterm);
      }
+   return (0);
  }
