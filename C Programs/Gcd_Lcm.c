@@ -23,5 +23,5 @@ int main()
     printf("Gcd of %d and %d is : %d \n", a,b,gcd);
     lcm = (a*b)/gcd;
     printf("lcm of %d and %d is: %d",a,b,lcm);
-    return (0);
+    return 0;
  }
