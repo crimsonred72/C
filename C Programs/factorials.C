@@ -1,6 +1,7 @@
 #include<stdio.h>
+
 int main()
- {
+  {
      int no;
      int factorial(int);
      printf("Enter the Value: ");
@@ -14,7 +15,7 @@ int main()
           printf("\n Input value must be greater than or equal to zero");
        }
      return 0;
- }
+  }
 int factorial(int n)
   {
      if((n==0)||(n==1))
